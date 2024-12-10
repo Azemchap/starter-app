@@ -12,12 +12,11 @@ const config: Config = {
 		container: {
 			center: true,
 			padding: {
-				DEFAULT: '2rem'
+				DEFAULT: '1rem'
 			}
 		},
 		extend: {
 			dropShadow: {
-
 				'4xl': [
 					'2px 0.4px 2px hsl(var(--foreground))'
 				]
